@@ -8,6 +8,7 @@ The Superstore dataset is a sample retail dataset that contains detailed sales, 
 
 # 📂 Dataset
  i attached the data csv file 
+ 
  Size: 9995 rows × 22 columns
 
 
